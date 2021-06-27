@@ -89,5 +89,6 @@ Right Column Title:
 Form fields are 287px width and 31px height
 
 # Original Mockup
-!(https://github.com/Mattnosekai/Defakto_Project/blob/main/Mockup.png)
+![Screenshot](https://github.com/Mattnosekai/Defakto_Project/blob/main/Mockup.png)
+
 # Screenshot from current working app
