@@ -1,0 +1,116 @@
+﻿body {
+    
+    background-image: linear-gradient(#C86401,#DA9A59);
+     
+    background-attachment: fixed;
+    color: #000000;
+    font-size: 12px;
+    font: Arial;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+#LeftColumn {
+    
+    float: left;
+    width: 64%;
+    color: #000000;
+    font-size: 12px;
+    font: Arial;
+
+}
+
+#RightColumn {
+    
+    float: right;
+    width: 34%;    
+      
+    
+     background-image: linear-gradient(#D69049,#D99653);
+     
+    background-attachment: fixed;
+    color: #333333;
+    font-size: 30px;
+    font: Arial;
+    text-align: center;
+    
+}
+
+#FormInput1 {
+     float: left;
+     width:34%
+     position: absolute;
+     right: 40%;
+     top: 60%
+     
+}
+
+#CatBannerTitle {
+    color: #ffffff;
+    font-size: 500%;
+    font: Arial;
+    position: absolute;
+    left: 28%;
+    top: 14%;
+}
+
+#CatBannerCopy {
+    
+    color: #212121; 
+    font-size: 325%; 
+    font: Arial;
+    position: absolute;
+    left: 28%;
+    top: 25%;
+}
+
+#BodyHeader1 {
+    color: #000000;
+    font-size: 350%;
+    font: Arial;
+    text-align: left;
+    position: absolute;
+    top: 47%;
+    
+}
+
+#BodyCopy {
+    color: #000000;
+    
+    font-size: 175%;
+    font: Arial;
+    text-align: left;
+    position: absolute;
+    top: 51%;
+}
+
+#RightColumnTitle {
+    color: #333333;
+    font-size: 30px;
+    font: Arial;
+}
+
+#CopyrightCopy {
+    color: #000000;
+    font-size: 110%;
+    font: Arial;
+    font-weight: bold;
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 90%;
+    text-align: center;
+        
+}
+
+#footer {
+  border: 0;  
+  height: 0;
+  width: 150%;
+  border-bottom:5px solid #C86401;
+  position: relative;
+  left: 10%;
+  
+}
