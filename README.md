@@ -9,10 +9,10 @@ VS will pop up with a browser window to render the page.
 Before running this, remember to attach the database files and connect Visual Studio to the local SQL Server Express Instance. 
 Attach the database to SQL Server Express. 
 
-The database files are: <\br>
-Defakto.mdf <\br>
-Defakto_log.mdf
-<\br>
+# The database files are: </br>
+ Defakto.mdf </br>
+ Defakto_log.mdf
+</br>
 # Original Requirements from February 11th 2013:
 
 Attached you will find a sample web page project. There are two parts of this project:
