@@ -45,49 +45,50 @@ Again, let us know if you have any questions, or need anything to help build thi
 
 Thank you so much and I look forward to hearing back from you!
 
-#Style Notes:
+# Style Notes:
+</br>
 Lading Page styles
+</br>
+Landing Page Width 970px </br>
+Should float in center of browser </br>
+</br>
+Landing page is two column layout. </br>
+Left column approx 617px </br>
+Right coumn 320px </br>
+</br>
+Footer 782px centered </br>
+Copyright copy is #000000 color with font size of 10px </br>
+</br>
+Left Column; </br>
+Cat Banner Styles. </br>
+"Email A Cat!" title: </br>
+	color #ffffff </br>
+	font size 36px </br>
+	font Arial </br>
+</br>
+Cat banner copy: </br>
+	color #212121 </br>
+	font size 20px </br>
+	font Arial </br>
+</br>
+Body Header 1: </br>
+	color #000000 </br>
+	font size 26px </br>
+	font Arial </br>
+</br>
+Body copy: </br>
+	color #000000 </br>
+	font size 12px </br>
+	font Arial </br>
+</br>
 
-Landing Page Width 970px
-Should float in center of browser
-
-Landing page is two column layout.
-Left column approx 617px
-Right coumn 320px
-
-Footer 782px centered
-Copyright copy is #000000 color with font size of 10px
-
-Left Column;
-Cat Banner Styles.
-"Email A Cat!" title:
-	color #ffffff
-	font size 36px
-	font Arial
-
-Cat banner copy:
-	color #212121
-	font size 20px
-	font Arial
-
-Body Header 1:
-	color #000000
-	font size 26px
-	font Arial
-
-Body copy:
-	color #000000
-	font size 12px
-	font Arial
-
-
-Right Column Title:
-	color #333333
-	font size 30px
-	font Arial
-
-Form fields are 287px width and 31px height
-
+Right Column Title: </br>
+	color #333333 </br>
+	font size 30px </br>
+	font Arial </br>
+</br>
+Form fields are 287px width and 31px height </br>
+</br>
 # Original Mockup
 ![Screenshot](https://github.com/Mattnosekai/Defakto_Project/blob/main/Mockup.png)
 
