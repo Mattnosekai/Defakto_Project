@@ -2,7 +2,7 @@
 
 ASP.NET & C# Candidate Test from 2013. 
 
-#To run the app:
+# To run the app:
 In Visual Studio, lanuch project with IIS instance. This is viewable in a browser on localhost.
 VS will pop up with a browser window to render the page.
 
@@ -13,7 +13,7 @@ The database files are:
 Defakto.mdf
 Defakto_log.mdf
 
-#Original Requirements from February 11th 2013:
+# Original Requirements from February 11th 2013:
 
 Attached you will find a sample web page project. There are two parts of this project:
 
@@ -88,6 +88,6 @@ Right Column Title:
 
 Form fields are 287px width and 31px height
 
-#Original Mockup
+# Original Mockup
 !(https://github.com/Mattnosekai/Defakto_Project/blob/main/Mockup.png)
-#Screenshot from current working app
+# Screenshot from current working app
